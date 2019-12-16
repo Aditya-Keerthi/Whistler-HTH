@@ -1,4 +1,4 @@
-# Whistler | The project we submitted for HackTheHammerII
+# Whistler | HackTheHammer
 At HackTheHammerII our group submitted this project and we won **Best Security Hack**.
 
 
