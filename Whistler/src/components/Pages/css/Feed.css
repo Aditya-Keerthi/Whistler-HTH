@@ -1,0 +1,64 @@
+
+.app-div{
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-div{
+    font-size: 100px;
+    display:flex;
+    justify-content: center;
+    height: 50vh;
+    align-items: center;
+}
+.feed-div{
+    width: 97vw;
+    max-width: 100vw;
+    overflow-x: hidden;
+    min-height: 100vh;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.posts-div{
+    width: 90%;
+    min-height: 90vh;
+    height: fit-content;
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+
+.logo:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+    fill: #DA4567;
+
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(2px, 2px) rotate(0deg); }
+    10% { transform: translate(-2px, -4px) rotate(-1deg); }
+    20% { transform: translate(-6px, 0px) rotate(1deg); }
+    30% { transform: translate(6px, 4px) rotate(0deg); }
+    40% { transform: translate(2px, -2px) rotate(1deg); }
+    50% { transform: translate(-2px, 4px) rotate(-1deg); }
+    60% { transform: translate(-6px, 2px) rotate(0deg); }
+    70% { transform: translate(6px, 2px) rotate(-1deg); }
+    80% { transform: translate(-2px, -2px) rotate(1deg); }
+    90% { transform: translate(2px, 4px) rotate(0deg); }
+    100% { transform: translate(2px, -4px) rotate(-1deg); }
+  }
+
+ 
