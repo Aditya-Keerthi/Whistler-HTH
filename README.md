@@ -31,6 +31,4 @@ Whistler is currently a local project on Github and didn't think of deploying it
 
 # Created by 
 
-[Aditya Keerthi](https://github.com/Aditya-Keerthi)
-[Daniel Yu](https://github.com/DanielYu2004)
-[Markos Georghiades](https://github.com/Markos-The-G)
+[Aditya Keerthi](https://github.com/Aditya-Keerthi) | [Daniel Yu](https://github.com/DanielYu2004) | [Markos Georghiades](https://github.com/Markos-The-G)
