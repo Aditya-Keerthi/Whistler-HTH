@@ -25,6 +25,14 @@ Coming into this hackathon, our group had little to none experience in Blockchai
 ## What's next for Whistler
 Whistler is currently a local project on Github and didn't think of deploying it to the Internet so that it can be used from people around the world. So one aspect that we would like to add to Whistler is deploy it to Firebase and to add another thing is make the UI even more user friendly.
 
+# Screenshots
+
+## Uploading a File and MetaMask Prompt
+![Uploading a File and MetaMask Prompt](Uploading a File and MetaMask Prompt.jpg)
+
+## Dashboard
+![Dashboard](Dashboard.jpg)
+
 # Check out the Devpost!
 
 [Devpost Link](https://devpost.com/software/whistler)
