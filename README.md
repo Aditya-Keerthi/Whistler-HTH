@@ -35,7 +35,7 @@ Whistler is currently a local project on Github and didn't think of deploying it
 
 # Check out the Devpost!
 
-[Devpost Link](https://devpost.com/software/whistler)
+![Devpost Link](https://devpost.com/software/whistler)
 
 # Created by 
 
