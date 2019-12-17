@@ -1,5 +1,5 @@
-# Whistler | HackTheHammer
-At HackTheHammerII our group submitted this project and we won **Best Security Hack**.
+# Whistler | HackTheHammer II
+At HackTheHammer II our group submitted this project and we won **Best Security Hack**.
 
 
 ## Inspiration
