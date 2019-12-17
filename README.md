@@ -27,13 +27,8 @@ Whistler is currently a local project on Github and didn't think of deploying it
 
 # Screenshots
 
-## Uploading a File and MetaMask Prompt
-![Uploading a File and MetaMask Prompt](Uploading a File and MetaMask Prompt.jpg)
-
-## Dashboard
 ![Dashboard](Dashboard.jpg)
-# Check out the Devpost!
-![Devpost Link](https://devpost.com/software/whistler)
+
 # Created by 
 
 [Aditya Keerthi](https://github.com/Aditya-Keerthi) | [Daniel Yu](https://github.com/DanielYu2004) | [Markos Georghiades](https://github.com/Markos-The-G)
