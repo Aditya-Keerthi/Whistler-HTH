@@ -25,6 +25,8 @@ Coming into this hackathon, our group had little to none experience in Blockchai
 ## What's next for Whistler
 Whistler is currently a local project on Github and didn't think of deploying it to the Internet so that it can be used from people around the world. So one aspect that we would like to add to Whistler is deploy it to Firebase and to add another thing is make the UI even more user friendly.
 
+![Dashboard](Dashboard.jpg)
+
 # Created by 
 
 [Aditya Keerthi](https://github.com/Aditya-Keerthi) | [Daniel Yu](https://github.com/DanielYu2004) | [Markos Georghiades](https://github.com/Markos-The-G)
